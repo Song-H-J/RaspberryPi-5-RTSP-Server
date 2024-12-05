@@ -6,3 +6,5 @@ objs/
 
 # .vscode 디렉토리 제외
 .vscode/
+
+output.h264
